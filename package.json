@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-dingtalk",
+  "name": "@songlipeng2003/n8n-nodes-dingtalk-fixed",
   "version": "0.0.9",
   "description": "",
   "keywords": [
@@ -30,6 +30,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
