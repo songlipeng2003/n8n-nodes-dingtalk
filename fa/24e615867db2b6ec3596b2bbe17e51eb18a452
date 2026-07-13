@@ -1,0 +1,36 @@
+test/runtime-dependencies.test.js
+  s_c3553dfbec7fc1::t_5b01bac944b7a5 29,41,43-48,54,68
+  s_c3553dfbec7fc1::t_563074dc0c5dc0 25,50,58-62,66
+  s_c3553dfbec7fc1::t_8cc6667db16067 22-24
+  s_c3553dfbec7fc1::t_f29387976a1f10 26-28
+  s_c3553dfbec7fc1::t_59625eb5a516cb 30-32,38-40
+  s_c3553dfbec7fc1::t_35c295e76f404e 42
+  s_c3553dfbec7fc1::t_38bd1376561892 49
+  s_c3553dfbec7fc1::t_18b7f5196971b5 51-53
+  s_c3553dfbec7fc1::t_18c15d77d13803 55-57
+  s_c3553dfbec7fc1::t_725578fb95472f 63-65
+  s_c3553dfbec7fc1::t_ba9c73e58ca36c 67
+  s_c3553dfbec7fc1::t_982a4e75038a23 69-71
+  s_c3553dfbec7fc1::t_a35f8615740d91 1-21,33-37,72-81
+package.json
+  s_c3553dfbec7fc1::t_c95ff91f97f00d 59,61
+  s_c3553dfbec7fc1::t_7088abb3ac7b97 28-29,60
+package-lock.json
+  s_c3553dfbec7fc1::t_9b6395142cb672 14-16,445-462,1190,1221,1223,2851-2853,2860,2901-2904,2909-2910,2913,3414-3417
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "fa24e615867db2b6ec3596b2bbe17e51eb18a452",
+  "prompts": {},
+  "sessions": {
+    "s_c3553dfbec7fc1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5975-1e2c-7623-98b6-34e864f005f8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Thinking Song <123wuming_123@163.com>"
+    }
+  }
+}
