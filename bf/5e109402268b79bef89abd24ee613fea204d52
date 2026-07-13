@@ -1,0 +1,22 @@
+package.json
+  s_c3553dfbec7fc1::t_c95ff91f97f00d 59,61
+  s_c3553dfbec7fc1::t_7088abb3ac7b97 28-29,60
+package-lock.json
+  s_c3553dfbec7fc1::t_9b6395142cb672 14-16,445-462,1190,1221,1223,2851-2853,2860,2901-2904,2909-2910,2913,3414-3417
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "bf5e109402268b79bef89abd24ee613fea204d52",
+  "prompts": {},
+  "sessions": {
+    "s_c3553dfbec7fc1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5975-1e2c-7623-98b6-34e864f005f8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Thinking Song <123wuming_123@163.com>"
+    }
+  }
+}
